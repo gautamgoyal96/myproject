@@ -1,0 +1,107 @@
+[29-Jan-2016 05:46:35 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/minditzc/public_html/dubaihappyhours/application/back-modules/dashboard/models/admin_model.php on line 203
+[29-Jan-2016 05:54:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/minditzc/public_html/dubaihappyhours/application/back-modules/dashboard/models/admin_model.php on line 202
+[29-Jan-2016 05:55:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/minditzc/public_html/dubaihappyhours/application/back-modules/dashboard/models/admin_model.php on line 202
+[29-Jan-2016 05:56:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/minditzc/public_html/dubaihappyhours/application/back-modules/dashboard/models/admin_model.php on line 202
+[29-Jan-2016 05:56:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/minditzc/public_html/dubaihappyhours/application/back-modules/dashboard/models/admin_model.php on line 202
+[29-Jan-2016 05:56:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/minditzc/public_html/dubaihappyhours/application/back-modules/dashboard/models/admin_model.php on line 202
+[29-Jan-2016 05:56:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/minditzc/public_html/dubaihappyhours/application/back-modules/dashboard/models/admin_model.php on line 202
+[29-Jan-2016 05:56:39 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/minditzc/public_html/dubaihappyhours/application/back-modules/dashboard/models/admin_model.php on line 202
+[29-Jan-2016 06:10:22 Etc/GMT] PHP Fatal error:  Call to undefined function xml_load_file() in /home/minditzc/public_html/dubaihappyhours/application/back-modules/dashboard/models/admin_model.php on line 173
+[29-Jan-2016 11:34:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/minditzc/public_html/dubaihappyhours/application/back-modules/dashboard/controllers/home.php on line 320
+[29-Jan-2016 11:34:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/minditzc/public_html/dubaihappyhours/application/back-modules/dashboard/controllers/home.php on line 321
+[29-Jan-2016 11:35:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/minditzc/public_html/dubaihappyhours/application/back-modules/dashboard/controllers/home.php on line 321
+[29-Jan-2016 11:35:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/minditzc/public_html/dubaihappyhours/application/back-modules/dashboard/controllers/home.php on line 322
+[29-Jan-2016 11:36:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/minditzc/public_html/dubaihappyhours/application/back-modules/dashboard/controllers/home.php on line 323
+[29-Jan-2016 11:36:35 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/minditzc/public_html/dubaihappyhours/application/back-modules/dashboard/controllers/home.php on line 324
+[29-Jan-2016 11:37:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/minditzc/public_html/dubaihappyhours/application/back-modules/dashboard/controllers/home.php on line 324
+[29-Jan-2016 12:03:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/minditzc/public_html/dubaihappyhours/application/back-modules/dashboard/views/editRestaurant.php on line 91
+[25-Nov-2016 12:46:49 Etc/GMT] PHP Fatal error:  Call to a member function user_counts() on a non-object in /home/minditzc/public_html/chooseLocal/application/back-modules/dashboard/controllers/dashboard.php on line 20
+[14-Apr-2017 10:22:38 Etc/GMT] PHP Fatal error:  Call to a member function eventType_count_row() on null in /home/minditzc/public_html/meaple/application/back-modules/eventType/controllers/eventType.php on line 27
+[14-Apr-2017 10:28:50 Etc/GMT] PHP Fatal error:  Call to a member function eventType_count_row() on null in /home/minditzc/public_html/meaple/application/back-modules/eventType/controllers/eventType.php on line 27
+[14-Apr-2017 10:28:57 Etc/GMT] PHP Fatal error:  Call to a member function eventType_count_row() on null in /home/minditzc/public_html/meaple/application/back-modules/eventType/controllers/eventType.php on line 27
+[18-Apr-2017 13:36:34 Etc/GMT] PHP Fatal error:  Call to a member function eventType_count_row() on null in /home/minditzc/public_html/meaple/application/back-modules/eventAdmin/controllers/eventAdmin.php on line 27
+[18-Apr-2017 13:36:36 Etc/GMT] PHP Fatal error:  Call to a member function eventType_count_row() on null in /home/minditzc/public_html/meaple/application/back-modules/eventAdmin/controllers/eventAdmin.php on line 27
+[18-Apr-2017 13:36:42 Etc/GMT] PHP Fatal error:  Call to a member function addEventType() on null in /home/minditzc/public_html/meaple/application/back-modules/eventAdmin/controllers/eventAdmin.php on line 77
+[04-May-2017 10:58:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/minditzc/public_html/meaple/application/back-modules/eventType/models/eventtype_model.php on line 47
+[04-May-2017 10:58:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/minditzc/public_html/meaple/application/back-modules/eventType/models/eventtype_model.php on line 47
+[04-May-2017 10:58:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/minditzc/public_html/meaple/application/back-modules/eventType/models/eventtype_model.php on line 47
+[06-Jul-2018 11:08:33 UTC] PHP Fatal error:  Uncaught exception 'ApnsPHP_Exception' with message 'Unable to connect to 'tls://gateway.sandbox.push.apple.com:2195':  (0)' in /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php:396
+Stack trace:
+#0 /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php(334): ApnsPHP_Abstract->_connect()
+#1 /home/avaco/public_html/application/back-modules/help/models/notification_model.php(59): ApnsPHP_Abstract->connect()
+#2 /home/avaco/public_html/application/back-modules/help/models/help_model.php(54): Notification_model->send_ios(Array, 'Admin: ok', Array)
+#3 /home/avaco/public_html/application/back-modules/help/models/help_model.php(78): Help_model->notificationSet('6', Array)
+#4 /home/avaco/public_html/application/back-modules/help/controllers/help.php(136): Help_model->message(Array)
+#5 [internal function]: Help->send()
+#6 /home/avaco/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home/avaco/public_html/admin/index.php(437): require_once('/home/avaco/ in /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php on line 396
+[06-Jul-2018 11:08:36 UTC] PHP Fatal error:  Uncaught exception 'ApnsPHP_Exception' with message 'Unable to connect to 'tls://gateway.sandbox.push.apple.com:2195':  (0)' in /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php:396
+Stack trace:
+#0 /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php(334): ApnsPHP_Abstract->_connect()
+#1 /home/avaco/public_html/application/back-modules/help/models/notification_model.php(59): ApnsPHP_Abstract->connect()
+#2 /home/avaco/public_html/application/back-modules/help/models/help_model.php(54): Notification_model->send_ios(Array, 'Admin: ok', Array)
+#3 /home/avaco/public_html/application/back-modules/help/models/help_model.php(78): Help_model->notificationSet('6', Array)
+#4 /home/avaco/public_html/application/back-modules/help/controllers/help.php(136): Help_model->message(Array)
+#5 [internal function]: Help->send()
+#6 /home/avaco/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home/avaco/public_html/admin/index.php(437): require_once('/home/avaco/ in /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php on line 396
+[06-Jul-2018 11:08:36 UTC] PHP Fatal error:  Uncaught exception 'ApnsPHP_Exception' with message 'Unable to connect to 'tls://gateway.sandbox.push.apple.com:2195':  (0)' in /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php:396
+Stack trace:
+#0 /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php(334): ApnsPHP_Abstract->_connect()
+#1 /home/avaco/public_html/application/back-modules/help/models/notification_model.php(59): ApnsPHP_Abstract->connect()
+#2 /home/avaco/public_html/application/back-modules/help/models/help_model.php(54): Notification_model->send_ios(Array, 'Admin: ok', Array)
+#3 /home/avaco/public_html/application/back-modules/help/models/help_model.php(78): Help_model->notificationSet('6', Array)
+#4 /home/avaco/public_html/application/back-modules/help/controllers/help.php(136): Help_model->message(Array)
+#5 [internal function]: Help->send()
+#6 /home/avaco/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home/avaco/public_html/admin/index.php(437): require_once('/home/avaco/ in /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php on line 396
+[06-Jul-2018 11:08:37 UTC] PHP Fatal error:  Uncaught exception 'ApnsPHP_Exception' with message 'Unable to connect to 'tls://gateway.sandbox.push.apple.com:2195':  (0)' in /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php:396
+Stack trace:
+#0 /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php(334): ApnsPHP_Abstract->_connect()
+#1 /home/avaco/public_html/application/back-modules/help/models/notification_model.php(59): ApnsPHP_Abstract->connect()
+#2 /home/avaco/public_html/application/back-modules/help/models/help_model.php(54): Notification_model->send_ios(Array, 'Admin: ok', Array)
+#3 /home/avaco/public_html/application/back-modules/help/models/help_model.php(78): Help_model->notificationSet('6', Array)
+#4 /home/avaco/public_html/application/back-modules/help/controllers/help.php(136): Help_model->message(Array)
+#5 [internal function]: Help->send()
+#6 /home/avaco/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home/avaco/public_html/admin/index.php(437): require_once('/home/avaco/ in /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php on line 396
+[06-Jul-2018 11:08:37 UTC] PHP Fatal error:  Uncaught exception 'ApnsPHP_Exception' with message 'Unable to connect to 'tls://gateway.sandbox.push.apple.com:2195':  (0)' in /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php:396
+Stack trace:
+#0 /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php(334): ApnsPHP_Abstract->_connect()
+#1 /home/avaco/public_html/application/back-modules/help/models/notification_model.php(59): ApnsPHP_Abstract->connect()
+#2 /home/avaco/public_html/application/back-modules/help/models/help_model.php(54): Notification_model->send_ios(Array, 'Admin: ok', Array)
+#3 /home/avaco/public_html/application/back-modules/help/models/help_model.php(78): Help_model->notificationSet('6', Array)
+#4 /home/avaco/public_html/application/back-modules/help/controllers/help.php(136): Help_model->message(Array)
+#5 [internal function]: Help->send()
+#6 /home/avaco/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home/avaco/public_html/admin/index.php(437): require_once('/home/avaco/ in /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php on line 396
+[06-Jul-2018 11:08:37 UTC] PHP Fatal error:  Uncaught exception 'ApnsPHP_Exception' with message 'Unable to connect to 'tls://gateway.sandbox.push.apple.com:2195':  (0)' in /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php:396
+Stack trace:
+#0 /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php(334): ApnsPHP_Abstract->_connect()
+#1 /home/avaco/public_html/application/back-modules/help/models/notification_model.php(59): ApnsPHP_Abstract->connect()
+#2 /home/avaco/public_html/application/back-modules/help/models/help_model.php(54): Notification_model->send_ios(Array, 'Admin: ok', Array)
+#3 /home/avaco/public_html/application/back-modules/help/models/help_model.php(78): Help_model->notificationSet('6', Array)
+#4 /home/avaco/public_html/application/back-modules/help/controllers/help.php(136): Help_model->message(Array)
+#5 [internal function]: Help->send()
+#6 /home/avaco/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home/avaco/public_html/admin/index.php(437): require_once('/home/avaco/ in /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php on line 396
+[06-Jul-2018 11:08:50 UTC] PHP Fatal error:  Uncaught exception 'ApnsPHP_Exception' with message 'Unable to connect to 'tls://gateway.sandbox.push.apple.com:2195':  (0)' in /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php:396
+Stack trace:
+#0 /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php(334): ApnsPHP_Abstract->_connect()
+#1 /home/avaco/public_html/application/back-modules/help/models/notification_model.php(59): ApnsPHP_Abstract->connect()
+#2 /home/avaco/public_html/application/back-modules/help/models/help_model.php(54): Notification_model->send_ios(Array, 'Admin: nice', Array)
+#3 /home/avaco/public_html/application/back-modules/help/models/help_model.php(78): Help_model->notificationSet('6', Array)
+#4 /home/avaco/public_html/application/back-modules/help/controllers/help.php(136): Help_model->message(Array)
+#5 [internal function]: Help->send()
+#6 /home/avaco/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home/avaco/public_html/admin/index.php(437): require_once('/home/avac in /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php on line 396
+[06-Jul-2018 11:13:28 UTC] PHP Fatal error:  Uncaught exception 'ApnsPHP_Exception' with message 'Unable to connect to 'tls://gateway.sandbox.push.apple.com:2195':  (0)' in /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php:396
+Stack trace:
+#0 /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php(334): ApnsPHP_Abstract->_connect()
+#1 /home/avaco/public_html/application/back-modules/help/models/notification_model.php(59): ApnsPHP_Abstract->connect()
+#2 /home/avaco/public_html/application/back-modules/help/models/help_model.php(54): Notification_model->send_ios(Array, 'Admin: hAhaf', Array)
+#3 /home/avaco/public_html/application/back-modules/help/models/help_model.php(78): Help_model->notificationSet('6', Array)
+#4 /home/avaco/public_html/application/back-modules/help/controllers/help.php(136): Help_model->message(Array)
+#5 [internal function]: Help->send()
+#6 /home/avaco/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home/avaco/public_html/admin/index.php(437): require_once('/home/ava in /home/avaco/public_html/application/third_party/ApnsPHP/Abstract.php on line 396
